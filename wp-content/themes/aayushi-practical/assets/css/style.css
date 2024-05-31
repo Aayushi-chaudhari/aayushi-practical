@@ -1,0 +1,9 @@
+.featured-products {
+    display: flex;
+}
+
+.all-products {
+    display: flex;
+    flex-wrap: wrap;
+}
+
